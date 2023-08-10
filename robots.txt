@@ -1,0 +1,4 @@
+Sitemap: https://dsaint31.github.io/sitemapindex.xml
+
+User-Agent: *
+Host: dsaint31.github.io
